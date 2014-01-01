@@ -8,7 +8,7 @@ Import json.min.js to your page:
 <script type="text/javascript" src="jsonp.min.js"></script>
 ```
 
-Create a new Jsonp and pass your callback:!
+Create a new Jsonp and pass your callback:
 
 ```javascript
 var url = 'http://api.wipmania.com/jsonp';
