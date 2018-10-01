@@ -1,7 +1,7 @@
 jsonp
 =====
 
-##Helper to make a jsonp request.
+## Helper to make a jsonp request.
 
 Import json.min.js to your page:
 ```html
