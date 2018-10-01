@@ -1,4 +1,4 @@
-jsonp
+simple jsonp helper
 =====
 
 ## Helper to make a jsonp request.
